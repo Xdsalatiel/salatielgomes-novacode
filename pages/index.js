@@ -15,7 +15,6 @@ export default function Home(){
           </div>
         </div>
       </section>
-
       <section id="services" className="mt-8">
         <h2 className="text-2xl font-semibold mb-4">Serviços</h2>
         <div className="grid md:grid-cols-3 gap-4">
