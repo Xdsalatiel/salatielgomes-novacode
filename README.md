@@ -40,9 +40,3 @@ O projeto está pronto para EmailJS. Para ativar:
 
 Quando configurado, o formulário enviará mensagens para o e-mail configurado no template. O assunto sugerido está definido como:
 > **Nova mensagem recebida do site de Salatiel Gomes**
-
-## Personalizar
-- Para trocar o telefone, e-mail ou textos, edite os arquivos em `components/` e `pages/`.
-
-## Créditos
-Projeto gerado e customizado para **Salatiel Gomes** — pronto para deploy.
